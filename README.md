@@ -1,1 +1,1 @@
-# CourseName-BCA-CollegeName-HaridwarUTY-Project-here-TaskNo.-5
+# CourseName-BCA-CollegeName-HaridwarUTY-Project-mobile SMS application to alert and display issues-TaskNo.-5
